@@ -10,7 +10,7 @@ May 28, 2016
 
 The associated presentation can be found at https://www.dropbox.com/s/v51zau99annkunx/Portal%20Customization%20101.pptx?dl=0.
 
-Demo.zip contains the complete Visual Studio 2013 project for the sample assembly, unzip it, and open the SamplePortalUtils.sln solution file contained therein.
+Demo.zip contains the complete Visual Studio 2013 project for the sample assembly, unzip it, and open the SamplePortalUtils.sln solution file contained therein.  It also contains the code to add to ceProcess.asp, index.asp, and menu.inc, to implement the demonstrated customizations, and the campus icon shown.
 
 bridgepage.asp is a sample session transfer page for bridging between Classic ASP and ASP.Net
 
