@@ -11,5 +11,7 @@ May 28, 2016
 The associated presentation can be found at https://www.dropbox.com/s/v51zau99annkunx/Portal%20Customization%20101.pptx?dl=0.
 
 Demo.zip contains the complete Visual Studio 2013 project for the sample assembly, unzip it, and open the SamplePortalUtils.sln solution file contained therein.
+
 bridgepage.asp is a sample session transfer page for bridging between Classic ASP and ASP.Net
+
 template.asp is a shell page for adding custom pages to the CAMS Enterprise Portals, rename it as appropriate, and add your content to the middle of it.
